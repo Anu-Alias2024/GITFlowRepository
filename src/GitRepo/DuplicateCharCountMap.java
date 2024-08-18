@@ -7,7 +7,7 @@ public class DuplicateCharCountMap {
 
 	
  void getDuplicateCharMap(String str) {
-		// TODO Auto-generated method stub
+		
 		try {
 		char []strArr=str.toCharArray();
 		HashMap <String,Integer> hp=new HashMap<>();
