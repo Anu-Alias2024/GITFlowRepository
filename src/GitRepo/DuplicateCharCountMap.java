@@ -31,7 +31,7 @@ public class DuplicateCharCountMap {
 		}
 		}catch(Exception e)
 		{
-			System.out.println("EXception "+e);
+			System.out.println("Exception "+e);
 		}
 		
 	}
